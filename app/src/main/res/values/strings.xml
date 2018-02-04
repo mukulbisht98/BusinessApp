@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Business App</string>
+    <string name="Desc">We here at shridi sell the best sweet all across city, once you taste us! you never forget us!</string>
+    <string name="timings">weekdays : 7:30am to 11:00pm\nweekends : 7:30am to midnight\n\n\t\t\t\t\t\t\tThanks for visiting!</string>
+    <string name="working_hours">Working Hours :</string>
+    <string name="address">Shridi sweets, Baltana, Zirakpur, Chandigarh</string>
+    <string name="add">Address :</string>
+    <string name="phone_no">phone no : 1234567890</string>
+    <string name="email">email : shridisweets@shridiweets.com</string>
+    <string name="contact_info">Contact info :</string>
+    <string name="description">We here at shridi sell the best sweet all across city, once you taste us! you never forget us!</string>
+    <string name="desc">Description :</string>
+    <string name="shridi_sweets">Shridi Sweets</string>
+</resources>
